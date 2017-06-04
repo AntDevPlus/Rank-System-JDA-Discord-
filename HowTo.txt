@@ -1,0 +1,6 @@
+Create PhpMyAdmin xith WampServer, and setup Drivers with wampp.
+
+Create class and copy-paste SqlConnection.java
+in PHP my Admin, Create new DataBase and table named "account" in account create 2 repo, Rank and ID.
+
+In 
